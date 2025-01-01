@@ -292,4 +292,14 @@ footer nav a {
   .spacecontact{
     height: 21em;
   }
+  @media (max-width:366px) {
+   
+    .nav-link {
+      font-size: 13px;
+      
+    }
+    .post{
+      width: 21em;
+    }
+  }
 }
